@@ -1,0 +1,7 @@
+flask
+requests
+playsound==1.2.2
+clipboard
+screeninfo
+configparser
+mysql-connector
