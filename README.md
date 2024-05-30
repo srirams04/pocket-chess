@@ -1,7 +1,7 @@
 
 # Pocket Chess: Unleash Your Inner Chess Master!
 
-**Pocket Chess** is your pocket-sized, desktop chess companion that lets you **dominate the board** without ever leaving your workflow. This **highly customizable** app lets you tailor the chess experience to your style, perfect for squeezing in a quick game with friends between tasks or sharpening your skills offline.
+**Pocket Chess** is your pocket-sized, cross-platform desktop chess companion that lets you **dominate the board** without ever leaving your workflow. This **highly customizable** app lets you tailor the chess experience to your style, perfect for squeezing in a quick game with friends between tasks, or a slow classical game all day.
 
 > [!TIP]
 > Kickstart a new game, challenge your friend, fine-tune the board aesthetics to your satisfaction, pin the app to a corner and then juggle between your work and your inner chess master like a pro!
@@ -19,6 +19,12 @@ Pocket Chess offers an unparalleled level of customisation to tailor your chess 
 -   **Immerse Yourself:** Enable sound effects for a more engaging chess experience.
 -   **Always on Top:** Pin the chess window to your screen and make quick moves without the hassle of switching tabs.
 -   **Choose Your Pace:** Select from a variety of time controls to suit your playing style.
+
+<p align="left">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9f4f781-5827-4639-b57e-240a65017b1a" width="30%" height="30%">   
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9f4f781-5827-4639-b57e-240a65017b1a" width="30%" height="30%">
+</p>
 
 ## Beyond the Board: Analyze and Dominate
 
@@ -42,6 +48,11 @@ Challenge your friends to a chess duel, both online and offline:
 -   **Turtle:** Efficient 2D animation rendering.
 -   **MySQL/SQLite:** Database to store game statistics and moves played.
 -   **Flask:** Facilitates online gameplay by allowing for server-client interaction.
+
+## Getting Started
+
+- Run the setup.py file to install all the dependencies.
+- Run the main.py file to start the application.
 
 ## Developers
 
