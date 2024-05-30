@@ -4,7 +4,7 @@
 **Pocket Chess** is your pocket-sized, cross-platform desktop chess companion that lets you **dominate the board** without ever leaving your workflow. This **highly customizable** app lets you tailor the chess experience to your style, perfect for squeezing in a quick game with friends between tasks, or a slow classical game all day!
 
 <p align="center">
-<img src="https://github.com/srirams04/pocket-chess/assets/75443405/d8cb65bc-ba3d-4e4d-9e7c-6459986389cc" width="80%" height="80%">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/75512430-f1d4-47e5-87a2-2672b6291601" width="80%" height="80%">
 </p>
 
 > [!TIP]
@@ -61,6 +61,10 @@ Pocket Chess isn't just about playing; it's about mastering the game:
 -   **Live Move Translation:** See your moves translated into chess notation in real-time, perfect for learning and analysis.
 -   **PGN Export:** Export your games in PGN (Portable Game Notation) format for in-depth review and analysis later.
 -   **Review & Annotate:** Replay past games and add annotations at specific positions to identify areas for improvement.
+
+<p align="center">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/14366549-f35a-4a5a-8041-daabda9971ac" width="80%" height="80%">
+</p>
 
 ## Multiplayer Chess: Online & Offline
 
