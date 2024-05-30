@@ -22,9 +22,11 @@ Pocket Chess offers an unparalleled level of customisation to tailor your chess 
 
 <p align="left">
 <img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9f4f781-5827-4639-b57e-240a65017b1a" width="30%" height="30%">   
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9f4f781-5827-4639-b57e-240a65017b1a" width="30%" height="30%">
+&nbsp; &nbsp; 
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/c874e004-f062-4441-801e-64fc0697eec9" width="66%" height="66%">
 </p>
+
+
 
 ## Beyond the Board: Analyze and Dominate
 
