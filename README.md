@@ -8,7 +8,7 @@
 </p>
 
 > [!TIP]
-> Kickstart a new game, challenge your friend, fine-tune the board aesthetics to your satisfaction, pin the app to a corner and then juggle between your work and your inner chess master like a pro!
+> Kickstart a new game to challenge your friend and fine-tune the board aesthetics to your satisfaction with the app pinned to a corner, and then juggle between your work and your inner chess master like a pro!
 
 <!---
 **Download Pocket Chess today and customise your perfect chess experience!** -->
