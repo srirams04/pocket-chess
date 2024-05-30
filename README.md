@@ -31,7 +31,7 @@ Change the board colour scheme for a personalised touch.
 </p>
 
 <p align="center">
-<img src="https://github.com/srirams04/pocket-chess/assets/75443405/c874e004-f062-4441-801e-64fc0697eec9" width="65%" height="65%"> <br>
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/c874e004-f062-4441-801e-64fc0697eec9" width="80%" height="80%"> <br>
 Adjust the board size anytime for a more strategic location amidst your background workflow. Collapse the sidepanels to get more compact.
 <br><br>
 </p>
@@ -43,13 +43,13 @@ New to chess? Not sure of how a piece moves? We've got you covered. Toggle the l
 </p>
 
 <p align="center">
-<img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9d4a1f7-d20a-4a2b-bed1-5bff603b2f41" width="65%" height="65%"> <br>
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9d4a1f7-d20a-4a2b-bed1-5bff603b2f41" width="80%" height="80%"> <br>
 Pin the chess window to your screen and make quick moves without the hassle of switching tabs.
 <br><br>
 </p>
 
 <p align="center">
-<img src="https://github.com/srirams04/pocket-chess/assets/75443405/22bd96ab-6882-4d9d-b8ae-ee30f717f29b" width="65%" height="65%"> <br>
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/22bd96ab-6882-4d9d-b8ae-ee30f717f29b" width="80%" height="80%"> <br>
 Select from a variety of time controls to suit your playing style.
 <br><br>
 </p>
