@@ -1,7 +1,11 @@
 
 # Pocket Chess: Unleash Your Inner Chess Master!
 
-**Pocket Chess** is your pocket-sized, cross-platform desktop chess companion that lets you **dominate the board** without ever leaving your workflow. This **highly customizable** app lets you tailor the chess experience to your style, perfect for squeezing in a quick game with friends between tasks, or a slow classical game all day.
+**Pocket Chess** is your pocket-sized, cross-platform desktop chess companion that lets you **dominate the board** without ever leaving your workflow. This **highly customizable** app lets you tailor the chess experience to your style, perfect for squeezing in a quick game with friends between tasks, or a slow classical game all day!
+
+<p align="center">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/d8cb65bc-ba3d-4e4d-9e7c-6459986389cc" width="80%" height="80%">
+</p>
 
 > [!TIP]
 > Kickstart a new game, challenge your friend, fine-tune the board aesthetics to your satisfaction, pin the app to a corner and then juggle between your work and your inner chess master like a pro!
@@ -20,13 +24,35 @@ Pocket Chess offers an unparalleled level of customisation to tailor your chess 
 -   **Always on Top:** Pin the chess window to your screen and make quick moves without the hassle of switching tabs.
 -   **Choose Your Pace:** Select from a variety of time controls to suit your playing style.
 
-<p align="left">
-<img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9f4f781-5827-4639-b57e-240a65017b1a" width="30%" height="30%">   
-&nbsp; &nbsp; 
-<img src="https://github.com/srirams04/pocket-chess/assets/75443405/c874e004-f062-4441-801e-64fc0697eec9" width="66%" height="66%">
+<p align="center">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9f4f781-5827-4639-b57e-240a65017b1a" width="30%" height="30%"> <br>
+Change the board colour scheme for a personalised touch.  
+<br><br>
 </p>
 
+<p align="center">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/c874e004-f062-4441-801e-64fc0697eec9" width="65%" height="65%"> <br>
+Adjust the board size anytime for a more strategic location amidst your background workflow. Collapse the sidepanels to get more compact.
+<br><br>
+</p>
 
+<p align="center">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/fab01463-50e8-4274-84ec-b4030d8454e2" width="28%" height="28%"> <br>
+New to chess? Not sure of how a piece moves? We've got you covered. Toggle the legal moves feature to learn the possible legal moves for each piece.
+<br><br>
+</p>
+
+<p align="center">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/b9d4a1f7-d20a-4a2b-bed1-5bff603b2f41" width="65%" height="65%"> <br>
+Pin the chess window to your screen and make quick moves without the hassle of switching tabs.
+<br><br>
+</p>
+
+<p align="center">
+<img src="https://github.com/srirams04/pocket-chess/assets/75443405/22bd96ab-6882-4d9d-b8ae-ee30f717f29b" width="65%" height="65%"> <br>
+Select from a variety of time controls to suit your playing style.
+<br><br>
+</p>
 
 ## Beyond the Board: Analyze and Dominate
 
@@ -34,7 +60,7 @@ Pocket Chess isn't just about playing; it's about mastering the game:
 
 -   **Live Move Translation:** See your moves translated into chess notation in real-time, perfect for learning and analysis.
 -   **PGN Export:** Export your games in PGN (Portable Game Notation) format for in-depth review and analysis later.
--   **Review & Annotate:** Replay past games and add annotations at specific positions to dissect your strategies and identify areas for improvement.
+-   **Review & Annotate:** Replay past games and add annotations at specific positions to identify areas for improvement.
 
 ## Multiplayer Chess: Online & Offline
 
