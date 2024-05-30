@@ -1,5 +1,5 @@
 
-# Pocket Chess: Unleash Your Inner Chess Master!
+# Pocket Chess: Unleash Your Inner Chess Monster!
 
 **Pocket Chess** is your pocket-sized, cross-platform desktop chess companion that lets you **dominate the board** without ever leaving your workflow. This **highly customizable** app lets you tailor the chess experience to your style, perfect for squeezing in a quick game with friends between tasks, or a slow classical game all day!
 
@@ -8,7 +8,7 @@
 </p>
 
 > [!TIP]
-> Kickstart a new game to challenge your friend and fine-tune the board aesthetics to your satisfaction with the app pinned to a corner, and then juggle between your work and your inner chess master like a pro!
+> Kickstart a new game to challenge your friend and fine-tune the board aesthetics to your satisfaction with the app pinned to a corner, and then juggle between your work and your inner chess monster like a pro!
 
 <!---
 **Download Pocket Chess today and customise your perfect chess experience!** -->
