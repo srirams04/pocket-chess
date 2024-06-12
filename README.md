@@ -44,6 +44,7 @@ Adjust the board size anytime for a more strategic location amidst your backgrou
 <p align="center">
 <img src="https://github.com/srirams04/pocket-chess/assets/75443405/91196f05-c634-479a-90ce-bae706b7a611" width="28%" height="28%"> <br>
 New to chess? Not sure of how a piece moves? We've got you covered. Toggle the legal moves feature to learn the possible legal moves for each piece.
+<br><br>
 </p>
 
 
